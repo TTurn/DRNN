@@ -1,0 +1,2 @@
+# DRNN
+disconnected rnn
